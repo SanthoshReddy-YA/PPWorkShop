@@ -1,0 +1,12 @@
+Screen1 As screen:
+
+    Label1 As label:
+        Align: =Align.Center
+        Color: =RGBA(54, 176, 75, 1)
+        Font: =Font.'Segoe UI'
+        Height: =112
+        Size: =40
+        Text: ="Santhosh"
+        Width: =1366
+        ZIndex: =1
+
